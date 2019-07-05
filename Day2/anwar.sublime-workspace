@@ -1,0 +1,227 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"d",
+				"document"
+			],
+			[
+				"a",
+				"ar"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/user/3D Objects/web/Login.html",
+		"/C/Users/user/3D Objects/web/Login.css",
+		"/C/Users/user/3D Objects/Javascript/AR.html",
+		"/C/Users/user/3D Objects/Javascript/input.html",
+		"/C/Users/user/3D Objects/Javascript/switch.html",
+		"/C/Users/user/3D Objects/Javascript/ar.css",
+		"/C/Users/user/3D Objects/Javascript/Array.html",
+		"/C/Users/user/3D Objects/javascript/sc.js",
+		"/C/Users/user/3D Objects/javascript/style.css",
+		"/C/Users/user/3D Objects/javascript/basic.html",
+		"/C/Users/user/3D Objects/javascript/b.css",
+		"/C/Users/user/3D Objects/New folder (2)/assignment.html",
+		"/C/Users/user/3D Objects/New folder (2)/assignment.css",
+		"/C/Users/user/3D Objects/coffe/js.html",
+		"/C/Users/user/3D Objects/cv/cv.html",
+		"/C/Users/user/3D Objects/cv/cv.css",
+		"/C/Users/user/3D Objects/coffe/c/ar/ar.txt",
+		"/C/Users/user/Documents/Javascript/array.html",
+		"/C/Users/user/3D Objects/responsive website/m.html",
+		"/C/Users/user/3D Objects/responsive website/m.css",
+		"/C/xampp/htdocs/aa/an.php",
+		"/C/xampp/htdocs/aa/an.php.txt",
+		"/C/xampp/htdocs/hi/h.php",
+		"/C/xampp/htdocs/hi/s.php",
+		"/C/xampp/htdocs/phpcode/ar.php.txt",
+		"/C/xampp/htdocs/My_php_Code/Hellow.php.txt",
+		"/C/Users/user/3D Objects/responsive website/aaa.html",
+		"/C/Users/user/3D Objects/responsive website/aa.php",
+		"/C/Users/user/3D Objects/responsive website/-০৮ওক্যক্সচভবন;ম,",
+		"/C/Users/user/3D Objects/responsive website/anwar.css",
+		"/C/Users/user/3D Objects/responsive website/anwar.html",
+		"/C/Users/user/3D Objects/New folder/responsive_website.html",
+		"/C/Users/user/3D Objects/New folder/responsive_website.css",
+		"/C/Users/user/3D Objects/ar.html.txt",
+		"/C/Users/user/3D Objects/basic.css",
+		"/C/Users/user/3D Objects/home.html",
+		"/C/Users/user/3D Objects/basic.html",
+		"/C/Program Files (x86)/Sublime Text 3/ar.css",
+		"/C/Program Files (x86)/Sublime Text 3/ar.html",
+		"/C/Program Files (x86)/Sublime Text 3/basic.html",
+		"/C/Program Files (x86)/Sublime Text 3/home.html",
+		"/C/Users/user/3D Objects/URI/basic.html",
+		"/C/Program Files (x86)/Sublime Text 3/header.html",
+		"/C/Program Files (x86)/Sublime Text 3/responsive web design",
+		"/C/Program Files (x86)/Sublime Text 3/ar.cs",
+		"/C/Users/user/3D Objects/ae.css",
+		"/C/Users/user/3D Objects/aa",
+		"/C/Users/user/Documents/web design/ar.html.txt",
+		"/C/Users/user/Documents/basic.html",
+		"/C/Users/user/Documents/basic.css",
+		"/C/Users/user/3D Objects/responsive ewbsite",
+		"/C/Users/user/3D Objects/New folder/basic.html",
+		"/C/Users/user/3D Objects/New folder/ar.html",
+		"/C/Users/user/3D Objects/New folder/ar.css",
+		"/C/Users/Public/Desktop/Google Chrome.lnk"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "anwar.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
