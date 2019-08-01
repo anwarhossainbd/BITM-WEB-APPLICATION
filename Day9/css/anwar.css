@@ -1,0 +1,10 @@
+.carousel-item-padding{
+    padding: 100px 220px ;
+}
+
+.add-section{
+    background: url("../img/bird.jpg");
+    background-size: 100% 100% ;
+    background-attachment: fixed;
+
+}
