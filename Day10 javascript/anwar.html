@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Javascript</title>
+	<link rel="stylesheet" type="text/css" href="css/anwar.css">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+	
+</head>
+<body>
+
+
+	<!--<h1 id="anwar1"> This is Heading one</h1>-->
+	<!--<p> This is Paragraph one </p>-->
+
+
+	<!--<p>Paragraph one </p>
+	<p>Paragraph two </p>
+	<p>Paragraph three </p>
+	<p>Paragraph four </p>
+	<p>Paragraph five </p>-->
+
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-sm-6 m-auto">
+				<div class="card bg-info">
+					<div class="card-body">
+						<div class="form-group row">
+							<label class="col-sm-3">First Name :</label>
+							<div class="col-sm-9">
+								<input type="text" name="first-name" id="first-name" class="form-control">
+
+							</div>
+						</div>
+
+						<div class="form-group row">
+							<label class="col-sm-3">Last Name :</label>
+							<div class="col-sm-9">
+								<input type="text" name="last-name" id="last-name" class="form-control">
+
+							</div>
+						</div>
+
+						<div class="form-group row">
+							<label class="col-sm-3"></label>
+							<div class="col-sm-9">
+								<input type="submit" name="submit" id="submit"  class="btn btn-success btn-sm" value="submit">
+
+							</div>
+						</div>
+
+						<div class="form-group row">
+							<label class="col-sm-3">Full Name : </label>
+							<div class="col-sm-9">
+								<input type="text" name="full-name" id="full-name" class="form-control">
+
+							</div>
+
+						</div>
+
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	<br>
+	<br>
+	<br>
+	<br>
+
+
+
+
+
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-sm-6 m-auto">
+				<div class="card bg-warning">
+					<div class="card-body">
+						<div class="form-group row">
+							<label class="col-sm-3">First Number :</label>
+							<div class="col-sm-9">
+								<input type="text" name="first-number" id="first-number" class="form-control">
+
+							</div>
+						</div>
+
+						<div class="form-group row">
+							<label class="col-sm-3">Last Number :</label>
+							<div class="col-sm-9">
+								<input type="text" name="last-number" id="last-number" class="form-control">
+
+							</div>
+						</div>
+
+						<div class="form-group row">
+							<label class="col-sm-3"></label>
+							<div class="col-sm-9">
+								<input type="submit" name="submit" id="addition"  class="btn btn-success btn-sm" value="+">
+								<input type="submit" name="submit" id="subtraction"  class="btn btn-success btn-sm" value="-">
+								<input type="submit" name="submit" id="mul"  class="btn btn-success btn-sm" value="*">
+								<input type="submit" name="submit" id="division"  class="btn btn-success btn-sm" value="/">
+								<input type="submit" name="submit" id="mode"  class="btn btn-success btn-sm" value="%">
+
+							</div>
+						</div>
+
+						<div class="form-group row">
+							<label class="col-sm-3">Your Answr </label>
+							<div class="col-sm-9">
+								<input type="text" name="answer" id="answer" class="form-control">
+
+							</div>
+
+						</div>
+
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+	<script>
+
+		var add = document.getElementById("addition") ;
+
+		add.onclick = function () {
+
+			var n1 = Number(document.getElementById("first-number").value) ;
+			var n2 = Number(document.getElementById("last-number").value) ;
+
+			var n= n1+n2 ;
+
+			document.getElementById("answer").value =n ;
+
+		}
+
+		var sub = document.getElementById("subtraction") ;
+
+		sub.onclick = function () {
+
+			var n1 = document.getElementById("first-number").value ;
+			var n2 = document.getElementById("last-number").value ;
+
+			var n= n1-n2 ;
+
+			document.getElementById("answer").value =n ;
+
+		}
+
+
+		var mul = document.getElementById("mul") ;
+
+		mul.onclick = function () {
+
+			var n1 = document.getElementById("first-number").value ;
+			var n2 = document.getElementById("last-number").value ;
+
+			var n= n1*n2 ;
+
+			document.getElementById("answer").value =n ;
+
+		}
+
+
+
+
+		var div = document.getElementById("division") ;
+
+		div.onclick = function () {
+
+			var n1 = document.getElementById("first-number").value ;
+			var n2 = document.getElementById("last-number").value ;
+
+			var n= n1/n2 ;
+
+			document.getElementById("answer").value =n ;
+
+		}
+
+
+		var mode = document.getElementById("mode") ;
+
+		mode.onclick = function () {
+
+			var n1 = document.getElementById("first-number").value ;
+			var n2 = document.getElementById("last-number").value ;
+
+			var n= n1%n2 ;
+
+			document.getElementById("answer").value =n ;
+
+		}
+
+
+
+
+
+
+	</script>
+
+
+
+	<script src="js/jquery-3.4.1.js"></script>
+	 <script src="js/poppers.js"></script>
+	 <script src="js/bootstrap.js"></script>
+	 <script src="js/my-script.js"></script>
+
+</body>
+</html>
